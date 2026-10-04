@@ -1,0 +1,21 @@
+{
+  "businessName": "Mandla Plumbing",
+  "businessType": "Plumbing",
+  "posts": [
+    {
+      "day": "Monday",
+      "content": "Need reliable plumbing support? We fix leaks, burst pipes and blocked drains quickly and professionally.",
+      "goal": "lead generation"
+    },
+    {
+      "day": "Wednesday",
+      "content": "Fast, transparent service with no hidden surprises. Book your next plumbing job today.",
+      "goal": "trust"
+    },
+    {
+      "day": "Friday",
+      "content": "Thank you to our customers for trusting us with your home and business plumbing needs.",
+      "goal": "brand loyalty"
+    }
+  ]
+}
